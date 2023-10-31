@@ -4,7 +4,7 @@
 - Oi pessoal, eu ou uma aluna do nono ano que está sendo obrigada a criar um repositório por conta do professsor de pensamento computacional, eu sou eu e eu não sou vc
 
 - Mas em fim
-- Eu estou começando no alura e também estou **aprendendo** a linguagem java
-  [Alura](https://www.alura.com.br/)
+- Eu estou começando no [Alura](https://www.alura.com.br/) e também estou **aprendendo** a linguagem java
+  
 
   ![](https://media.tenor.com/FtXh4P85jZEAAAAC/brook-one-piece.gif)
